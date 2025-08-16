@@ -8,3 +8,9 @@
     color: rgb(0,0,255);
     font-size: 36px;
 }
+
+.odd.no.2 {
+    background: pink;
+    font-family: "Verdana", "DejaVu Sans", generic-family;
+    font-size: 24px;
+}
