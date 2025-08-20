@@ -1,7 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  display: inline;
+  display: flex;
 }
 
 .logo {
