@@ -32,8 +32,8 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
-  align-items: center;
-  justify-content: start;
+  align-items: start;
+  justify-content: center;
 }
 
 .close-button {
